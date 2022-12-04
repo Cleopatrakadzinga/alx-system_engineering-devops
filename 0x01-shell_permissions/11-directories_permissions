@@ -1,1 +1,2 @@
-e- #!/bin/bash\n chmod a+x */
+#!/bin/bash
+ chmod -R +111 */
