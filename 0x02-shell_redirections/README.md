@@ -1,1 +1,1 @@
-17-hidethatword
+18-letteronly
